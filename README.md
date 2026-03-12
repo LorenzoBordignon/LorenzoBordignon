@@ -11,14 +11,14 @@
 > Curso Técnico em Análise e Desenvolvimento de Sistemas
 >___
 > 
->## Graduação
+>## Graduação (Em Andamento)
 > Administração - UFPR
 >___
 > 
 # 📚 Meus conhecimentos
-> HTML e CSS
-> JavaScript
-> ...Loading
+> ###HTML e CSS
+> ###JavaScript
+> ###...Loading
 >___
 > 
 # 🌱 Atualmente aprendendo
