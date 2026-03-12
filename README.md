@@ -16,9 +16,9 @@
 >___
 > 
 # 📚 Meus conhecimentos
-> ###HTML e CSS
-> ###JavaScript
-> ###...Loading
+> ### HTML e CSS
+> ### JavaScript
+> ### ...Loading
 >___
 > 
 # 🌱 Atualmente aprendendo
