@@ -12,11 +12,17 @@
 >___
 > 
 >## Graduação
-> Aguardando para ingressar em uma faculdade.
+> Administração - UFPR
+>___
+> 
+# 📚 Meus conhecimentos
+> HTML e CSS
+> JavaScript
+> ...Loading
 >___
 > 
 # 🌱 Atualmente aprendendo
-> Atualmente, estou aprendendo a programar com JavaScript.
+> Atualmente, estou aprendendo a programar com React e Typescript.
 ___
 
 <!--
