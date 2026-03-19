@@ -1,41 +1,19 @@
-# 🎓 Minhas Formações
->## Ensino Médio Técnico
-> ### TecPuc(PUC-PR) / 2022-2023
-> 
-> Curso Técnico em Informática
->
-> ___ 
->
-> ### Sesi(SENAI) / 2024
-> 
-> Curso Técnico em Análise e Desenvolvimento de Sistemas
->___
-> 
->## Graduação (Em Andamento)
-> Administração - UFPR
->___
-> 
-# 📚 Meus conhecimentos
-> #### HTML e CSS
-> #### JavaScript
-> #### ...Loading
->___
-> 
-# 🌱 Atualmente aprendendo
-> Atualmente, estou aprendendo a programar com React e Typescript.
-___
 
-<!--
-**LorenzoBordignon07/LorenzoBordignon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre Mim
+Me chamo Lorenzo e sou desenvolvedor de software, meu sonho é me tornar um grande empresário e fazer minha equipe a mais feliz do mundo 😎
 
-Here are some ideas to get you started:
+- Curioso e muito interessado
+- Conversador nato
+## Formações
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ensino Médio Técnico - Tecpuc (PUC-PR) e Sesi (SENAI)
+- Administração - UFPR
+
+
+## Stack
+
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react)](https://skillicons.dev)
+
+## Currently Learning
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
