@@ -1,9 +1,7 @@
 
 # Sobre Mim
-Me chamo Lorenzo e sou desenvolvedor de software, meu sonho é me tornar um grande empresário e fazer minha equipe a mais feliz do mundo 😎
+Me chamo Lorenzo e sou desenvolvedor web, gosto de aprender e explorar novos horizontes, trabalhar em vários projetos com tecnologias e direcionamentos diferentes, mantendo a mente sempre em movimento.
 
-- Curioso e muito interessado
-- Conversador nato
 ## Formações
 
 - Ensino Médio Técnico - Tecpuc (PUC-PR) e Sesi (SENAI)
