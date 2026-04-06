@@ -14,4 +14,4 @@ Me chamo Lorenzo e sou desenvolvedor web, gosto de aprender e explorar novos hor
 
 ## Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next)](https://skillicons.dev)
