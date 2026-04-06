@@ -1,6 +1,6 @@
 
 # Sobre Mim
-Me chamo Lorenzo e sou desenvolvedor web, gosto de aprender e explorar novos horizontes, trabalhar em vários projetos com tecnologias e direcionamentos diferentes, mantendo a mente sempre em movimento.
+Me chamo Lorenzo e sou desenvolvedor web, gosto de aprender e explorar novos horizontes, trabalhar em vários projetos com tecnologias e direcionamentos diferentes, mantendo a mente sempre em movimento. Atualmente estou cursando administração na UFPR, focando em desenvolver habilidades de gestão de projetos, processos e pessoas.
 
 ## Formações
 
