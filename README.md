@@ -5,7 +5,7 @@ Me chamo Lorenzo e sou desenvolvedor web, gosto de aprender e explorar novos hor
 ## Formações
 
 - Ensino Médio Técnico - Tecpuc (PUC-PR) e Sesi (SENAI)
-- Administração - UFPR
+- Administração - UFPR (Em andamento)
 
 
 ## Stack
